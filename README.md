@@ -47,12 +47,12 @@ _P.S:_ _**Hover state features is not applicable on touchscreen devices, as it i
 ## Screenshots of Responsive Design :camera_flash:
 
 #### Phone (iPhone XS Max @ 414 x 896)
-![Page preview on iPhone XS Max](./screenshots/iPhone-XS-Max_(414 x 896).png)
+![Page preview on iPhone XS Max](./screenshots/iPhone-XS-Max_(414x896).png)
 <hr />
 
 #### Tablet (iPad Pro 10.5 @ 834 x 1112)
-![Page preview on iPad Pro 10.5](./screenshots/iPad-Pro-10.5_(834 x 1112).png)
+![Page preview on iPad Pro 10.5](./screenshots/iPad-Pro-10.5_(834x1112).png)
 <hr />
 
 #### PC / Laptop (MacBook Air @ 1440 x 900)
-![Page preview on MacBook Air](./screenshots/MacBook-Air_(1440 x 900).png)
+![Page preview on MacBook Air](./screenshots/MacBook-Air_(1440x900).png)
