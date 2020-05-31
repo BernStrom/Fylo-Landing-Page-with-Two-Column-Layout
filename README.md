@@ -28,7 +28,7 @@ This project was obtained from a list of challenges by Frontend Mentor.
 
 And don't forget the core of it all, _**Happy coding!🚀**_
 
-**P.S:* _**Hover state features is not applicable on touchscreen devices, as it is only available through hovering over with a mouse cursor.**_
+_P.S:_ _**Hover state features is not applicable on touchscreen devices, as it is only available through hovering over with a mouse cursor.**_
 
 ## Technical Components :gear:
 
