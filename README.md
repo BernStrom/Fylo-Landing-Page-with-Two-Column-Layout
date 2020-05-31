@@ -1,4 +1,4 @@
-## Fylo landing page with two column layout
+## Fylo Landing Page with Two Column Layout
 
 ![Design preview for the Fylo landing page with two column layout challenge](./design/desktop-preview.jpg)
 
