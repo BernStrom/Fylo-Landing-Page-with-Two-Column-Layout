@@ -86,19 +86,19 @@ header {
     font-family: "Raleway", sans-serif;
 }
   
-::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+::placeholder { /* Support for Chrome, Firefox, Opera, Safari 10.1+ */
     padding-left: 7px;
     color: hsl(0, 0%, 75%);
     font-size: 14px;
 }
   
-:-ms-input-placeholder { /* Internet Explorer 10-11 */
+:-ms-input-placeholder { /* Support for Internet Explorer 10-11 */
     padding-left: 7px;
     color: hsl(0, 0%, 75%);
     font-size: 14px;
 }
   
-::-ms-input-placeholder { /* Microsoft Edge */
+::-ms-input-placeholder { /* Support for Microsoft Edge */
     padding-left: 7px;
     color: hsl(0, 0%, 75%);
     font-size: 14px;
