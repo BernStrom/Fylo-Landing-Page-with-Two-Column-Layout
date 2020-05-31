@@ -32,7 +32,7 @@
           <p>Fylo stores your most important files in one secure location. 
             Access them wherever you need, share and collaborate with friends, family, and co-workers.</p>
           <form action="example.html" method="POST">
-            <input class="input" type="text" name="email" placeholder="Enter your email..." required>
+            <input class="input" type="email" name="email" placeholder="Enter your email..." required>
             <button class="submit" type="submit">Get Started</button>
           </form>
         </div>
@@ -43,34 +43,38 @@
       </section>
       
       <section class="productive"> <!-- MID SECTION -->
-        <div class="productive-description">
-          <h1>Stay productive, wherever you are</h1>
-          <p>Never let location be an issue when accessing your files. Fylo has you covered for all of your file storage needs.</p>
-          <p>Securely share files and folders with friends, family and colleagues for live collaboration. No email attachments required!</p>
-          <figure>
-            <figcaption>See how Fylo works</figcaption>
-            <img src="images/icon-arrow.svg" alt="arrow icon">
-          </figure>
-
-          <figure>
-            <img src="images/icon-quotes.svg" alt="quotes">
-          </figure>
-          <p>Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has become a well-oiled collaboration machine.</p>
-          <div class="profile">
-            <figure>
-              <img src="images/avatar-testimonial.jpg" alt="testimonial avatar">
+        <div class="productive-content">
+          <div class="productive-description">
+            <h1>Stay productive, wherever you are</h1>
+            <p>Never let location be an issue when accessing your files. Fylo has you covered for all of your file storage needs.</p>
+            <p>Securely share files and folders with friends, family and colleagues for live collaboration. No email attachments required!</p>
+            <figure class="sample">
+              <figcaption>See how Fylo works</figcaption>
+              <img src="images/icon-arrow.svg" alt="arrow icon">
             </figure>
 
-            <div class="profile-title">
-              <h5>Kyle Burton</h5>
-              <p>Founder & CEO, Huddle</p>
-            </div>
-          </div>  
-        </div>
+            <article class="feedback"> <!-- TESTIMONIAL -->
+              <figure class="quotes">
+                <img src="images/icon-quotes.svg" alt="quotes">
+              </figure>
+              <p>Fylo has improved our team productivity by an order of magnitude. Since making the switch our team has become a well-oiled collaboration machine.</p>
+              <div class="profile">
+                <figure>
+                  <img src="images/avatar-testimonial.jpg" alt="testimonial avatar">
+                </figure>
 
-        <figure>
-          <img src="images/illustration-2.svg" alt="illustration-2">
-        </figure>
+                <div class="profile-title">
+                  <h5>Kyle Burton</h5>
+                  <p>Founder & CEO, Huddle</p>
+                </div>
+              </div> 
+            </article> 
+          </div>
+
+          <figure>
+            <img class="illustration" src="images/illustration-2.svg" alt="illustration-2">
+          </figure>
+        </div>
       </section>
       
       <section class="early-access"> <!--BOTTOM SECTION -->
@@ -80,7 +84,7 @@
         </div>
 
         <form action="example.html" method="POST">
-          <input class="input" type="text" name="email" placeholder="email@example.com" required>
+          <input class="input" type="email" name="email" placeholder="email@example.com" required>
           <button class="submit" type="submit">Get Started For Free</button>
         </form>
       </section>
@@ -96,12 +100,12 @@
       <section class="footer-content">
         <div class="contact"> <!-- CONTACT -->
           <figure class="phone">
-            <img src="images/icon-phone.svg" alt="phone">
+            <img class="call" src="images/icon-phone.svg" alt="phone">
             <figcaption>Phone: +1-543-123-4567</figcaption>
           </figure>
 
           <figure class="email">
-            <img src="images/icon-email.svg" alt="email">
+            <img class="mail" src="images/icon-email.svg" alt="email">
             <figcaption>example@fylo.com</figcaption>
           </figure>
         </div>
