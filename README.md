@@ -17,7 +17,7 @@ Thanks for checking out this project.
 
 This project was build on purely HTML and CSS.
 
-## Introduction
+## :pushpin: Introduction
 
 The Fylo Landing Page with Two Column Layout is a project for practicing website layout and responsive desgin in CSS.
 
